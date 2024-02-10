@@ -1,0 +1,29 @@
+
+
+.box{
+    height: 100px;
+    width: 100px;
+   display: inline-block;
+}
+
+#first{
+    background-color: red;
+   
+}
+
+#second{
+    background-color: blue;   
+    visibility: hidden;
+}
+
+#third{
+    background-color: green;
+}
+
+a{
+    
+    padding: 20px;
+    background-color: coral;
+    color: #fff;
+    display: inline-block;
+}

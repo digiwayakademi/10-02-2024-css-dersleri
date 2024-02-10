@@ -1,0 +1,47 @@
+
+
+
+.links a{
+    text-decoration: none;
+    font-size: 24px;
+    color: chocolate;
+    border: 3px solid #000;
+    /* border: border-width border-style border-color; */
+    /* border-width: 3px;
+    border-style: solid;
+    border-color: #000; */
+}
+
+ .links .link4{
+    color: blue;
+}
+
+h1{
+    font-size: 45px;
+    border: 2px dashed red;
+}
+
+p{
+    border: 5px solid crimson;
+}
+
+.yuvarlak{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+#home{
+    text-decoration: none;
+    font-size: 32px;
+    color: firebrick;
+    /* border-bottom: 5px double firebrick; */
+    /* border-bottom-width: 5px;
+    border-bottom-style:solid;
+    border-bottom-color: firebrick; */
+    border-color: blue;
+    border-width: 25px 10px 15px 20px;
+    border-style: solid;
+
+}
